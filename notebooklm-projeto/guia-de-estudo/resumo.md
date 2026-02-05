@@ -1,13 +1,28 @@
-# Resumo
+# 📘 Resumo Estruturado
+Este guia de estudos foi elaborado com base nas fontes fornecidas, consolidando os ensinamentos de especialistas como Nathalia Arcuri e Gustavo Cerbasi, além de diretrizes do Banco Central do Brasil e do Bradesco.
 
-## Planejamento financeiro
-- Definição de objetivos de curto, médio e longo prazo.
-- Orçamento mensal com categorização de receitas e despesas.
+## Os Pilares da Riqueza e da Cidadania Financeira
 
-## Reserva de emergência
-- Recomenda-se o equivalente a 3–6 meses de despesas essenciais.
-- Preferir liquidez e baixo risco.
+### Educação Financeira
+Capacidade de fazer escolhas inteligentes e decisões eficazes sobre o uso e a gestão do dinheiro para conquistar qualidade de vida.  
+Expande-se para a **cidadania financeira**, que é o exercício de direitos e deveres para gerenciar bem os recursos, baseada no tripé **PLA-POU-CRÉ**:
+- **Planejar** o uso do dinheiro  
+- **Poupar** ativamente  
+- Usar o **Crédito** de forma responsável  
 
-## Dívidas e crédito
-- Priorizar a quitação de dívidas com juros mais altos.
-- Evitar o uso recorrente do crédito rotativo.
+### Mentalidade e Comportamento
+- Curar a “dinheirofobia” (medo de falar sobre dinheiro).  
+- Praticar **auto-responsabilidade**: pessoas ricas constroem o próprio destino.  
+- Diferenciar **necessidades** (indispensáveis) de **desejos** (supérfluos).  
+
+### Planejamento Estratégico
+- Fazer diagnóstico financeiro (radiografia de receitas e despesas).  
+- Definir metas SMART: Específicas, Mensuráveis, Atingíveis, Relevantes e com Tempo definido.  
+- Aplicar a fórmula **70/30**:  
+  - 70% da renda para o presente (essencial).  
+  - 30% para metas futuras.  
+
+### Juros e Investimentos
+- O tempo é aliado do investidor via **juros compostos** (“juros sobre juros”).  
+- Construir **reserva de emergência** (6 a 12 meses do custo de vida).  
+- Equilibrar o tripé **Liquidez, Risco e Rentabilidade** conforme perfil do investidor (conservador, moderado, arrojado).
