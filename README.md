@@ -22,9 +22,9 @@ Organizar um guia de estudos em finanças pessoais utilizando o NotebookLM para 
 - PDFs: ebooks e relatórios de instituições financeiras.
 
 ## Estrutura do guia
-- **resumo**: resumos estruturados dos conteúdos principais.
-- **glossário**: conceitos financeiros explicados em linguagem simples.
-- **prompts**: lista de prompts reutilizáveis para análise e estudo.
+- [**resumo**](notebooklm-projeto/guia-de-estudo/resumo.md): resumos estruturados dos conteúdos principais. Veja .
+- [**glossário**](notebooklm-projeto/guia-de-estudo/glossario.md): conceitos financeiros explicados em linguagem simples. Veja .
+- [**prompts**](notebooklm-projeto/guia-de-estudo/prompts.md): lista de prompts reutilizáveis para análise e estudo. Veja .
 
 ## Como usar o repositório
 1. Consulte o NotebookLM (Guia Financeiro Digital): [Guia Financeiro Digital](https://notebooklm.google.com/notebook/3369d7d7-c335-4fe8-9bf9-fceaab258354)
